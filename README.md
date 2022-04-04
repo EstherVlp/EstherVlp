@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying -> Python and VueJS
 - 🖇 I learn many different languages like HTML, CSS, Javascript, MySQL, PHP, Python, React
 
-- 📧 Contact
+- 📧
   email : e.vilpique@gmail.com
   LinkedIn : https://www.linkedin.com/in/esther-vilpique/
 
