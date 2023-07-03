@@ -1,7 +1,7 @@
 - 👋🏾 Hi, I’m Esther. I'm student at Ada Tech School since October 2021. 
 - 💜 Fullstack developer Junior ✌🏾
 - 🌐 Actually apprentice at L'Occitane Groupe as a FullStack developer Saleforce
-- 🌱 I’m currently studying -> React, Node
+- 🌱 I’m currently studying -> React, Nodejs
 - 🖇 I learn many different languages like HTML, CSS, Javascript, MySQL, PHP, Python, React, Node Js
 
 - 📧
