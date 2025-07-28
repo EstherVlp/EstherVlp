@@ -1,7 +1,6 @@
-- 👋🏾 Hi, I’m Esther. 
-- 💜 Software developer ✌🏾
-- 🌱 I’m currently studying -> The stack MERN: Mongodb, Express, React, Nodejs
-- 🖇 I learn many different languages like HTML, CSS, Javascript, MySQL, PHP, Python, React, Node Js
+- 👋🏾 Hi, I’m Esther
+- 💜 Software developer and graphic designer ✌🏾
+- 🖇 I learn many different languages/library like HTML5, CSS3, Javascript, React, Node.js, NestJs, Typescript, MySQL
 
 - 📧
   email : e.vilpique@gmail.com
